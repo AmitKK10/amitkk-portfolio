@@ -188,7 +188,7 @@ export const projects = [
       "JWT",
     ],
     github: "https://github.com/AmitKK10/OIBSIP-PIZZA-APP",
-    webapp: "https://oibsip-pizza-app-ykex.onrender.com/login",
+    webapp: "https://oibsip-pizza-app-ykex.onrender.com",
   },
   {
     id: 2,

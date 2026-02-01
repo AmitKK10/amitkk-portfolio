@@ -99,3 +99,38 @@ This portfolio is designed to represent my profile as a **Full Stack / Software 
 ```bash
 git clone https://github.com/AmitKK10/amitkk-portfolio.git
 cd amitkk-portfolio
+
+2️⃣ Install dependencies
+npm install
+
+3️⃣ Run development server
+npm run dev
+
+4️⃣ Build for production
+npm run build
+
+🙏 Credits & Acknowledgement
+
+This portfolio was initially inspired by an open-source template created by
+Tarun Kaushik.
+
+The project has been significantly customized and extended by Amit Kiran Kar, including:
+
+New achievements & certifications section
+
+Custom projects and assets
+
+Content restructuring
+
+UI & responsiveness refinements
+
+Deployment and configuration changes
+
+Original inspiration repository:
+🔗 https://github.com/codingmastr/Tarun-s-Portfolio
+
+📬 Contact
+
+GitHub: https://github.com/AmitKK10
+
+LinkedIn: https://www.linkedin.com/in/amit-kiran-kar-975744277

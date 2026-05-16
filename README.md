@@ -93,16 +93,10 @@ This portfolio is designed to represent my profile as a **Full Stack / Software 
 
 ---
 
+## 🚀 Run Locally
 
-## 🚀 Installation & Setup
-1. `git clone https://github.com/AmitKK10/amitkk-portfolio.git`
-2. `npm install`
-3. `npm run dev`
+### 1️⃣ Clone the repository
 
----
-
-## 🙏 Acknowledgements
-Inspired by the open-source work of Tarun Kaushik. This version has been significantly extended with:
-* Custom UI components for Achievements/Certifications.
-* Enhanced mobile responsiveness.
-* Refactored project architecture for better performance.
+```bash
+git clone https://github.com/AmitKK10/amitkk-portfolio.git
+cd amitkk-portfolio

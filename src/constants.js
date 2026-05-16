@@ -284,7 +284,7 @@ export const socialLinks = {
   github: 'https://github.com/AmitKK10',
   linkedin: 'https://www.linkedin.com/in/amit-kiran-kar-975744277',
   instagram: 'https://www.instagram.com/amit_kiran_kar_10',
-  youtube: 'https://youtube.com/@amitkk-jz3ji',
+  youtube: 'https://youtube.com/@amitkirankar1007?si=tBL32Vo41tJDeOzH',
   facebook: 'https://www.facebook.com/share/1C9b3GkQDk/',
   twitter: 'https://x.com/AmitKK1007',
 };

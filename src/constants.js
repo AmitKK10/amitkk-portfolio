@@ -46,7 +46,7 @@ import work3 from "./assets/work_logo/work3.jpeg";
 // COMPANY LOGOS
 // ===============================
 import oasisLogo from "./assets/company_logo/oasis.jpeg";
-
+import fibermaxLogo from "./assets/company_logo/FiberMax.png";
 
 // ===============================
 // SKILLS DATA
@@ -99,6 +99,27 @@ export const SkillsInfo = [
 export const experiences = [
   {
     id: 0,
+    img: fibermaxLogo,
+    role: "Software Developer",
+    company: "FiberMax Services Pvt Ltd",
+    date: "May 2026 – Present",
+    desc:
+      "Currently working as a Software Developer building scalable and production-ready web applications. Contributing to frontend and backend development using modern JavaScript technologies, REST APIs, database management, and responsive UI engineering while collaborating in an Agile development environment.",
+    skills: [
+      "React.js",
+      "JavaScript",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "REST APIs",
+      "Git",
+      "GitHub",
+      "Responsive Design",
+    ],
+  },
+
+  {
+    id: 1,
     img: oasisLogo,
     role: "Web Full Stack Development Intern (MERN)",
     company: "Oasis Infobyte",

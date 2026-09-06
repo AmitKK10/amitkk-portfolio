@@ -41,6 +41,8 @@ import classXIIProof from "./assets/achievement/class-xii.jpeg";
 import work1 from "./assets/work_logo/work1.jpeg";
 import work2 from "./assets/work_logo/work2.jpeg";
 import work3 from "./assets/work_logo/work3.jpeg";
+import work4 from "./assets/work_logo/work4.png";
+import work5 from "./assets/work_logo/work5.png";
 
 // ===============================
 // COMPANY LOGOS
@@ -180,6 +182,44 @@ export const education = [
 export const projects = [
   {
     id: 0,
+    title: "Afinity – Personal Finance & Net Worth Platform",
+    description:
+      "Afinity is a full-stack personal finance platform built to solve the challenge of tracking and understanding personal finances in one place. It brings accounts, credit cards, transactions, expenses, budgets, financial goals, and net worth tracking together with actionable financial insights and a responsive dashboard.",
+    image: work5,
+    tags: [
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Personal Finance",
+      "Net Worth",
+      "Vercel",
+    ],
+    github: "https://github.com/AmitKK10/Afinity",
+    webapp: "https://afinity-kappa.vercel.app/",
+  },
+
+  {
+    id: 1,
+    title: "SalaryPulse – Salary & Attendance Tracker",
+    description:
+      "SalaryPulse is a personal salary and attendance management platform built to solve the complexity of tracking working hours, attendance, overtime, and monthly salary calculations. It converts daily punch-in and punch-out data into clear attendance records, overtime insights, salary breakdowns, and monthly reports.",
+    image: work4,
+    tags: [
+      "React",
+      "JavaScript",
+      "Salary Tracking",
+      "Attendance",
+      "Overtime",
+      "Analytics",
+      "Vercel",
+    ],
+    github: "https://github.com/AmitKK10/Salary_Pulse",
+    webapp: "https://salarypulse-omega.vercel.app/",
+  },
+
+  {
+    id: 2,
     title: "Offer Bridge – Fintech Escrow Platform",
     description:
       "Offer Bridge is a full-stack MERN platform that securely connects users who don’t have credit cards with credit card holders, enabling them to access card-based discounts through an admin-controlled escrow system & designed to securely manage transactions between buyers and sellers. Implemented role-based access control, real-time updates using Socket.IO, and an atomic wallet ledger to eliminate transaction disputes.",
@@ -195,8 +235,9 @@ export const projects = [
     github: "https://github.com/AmitKK10/Offer-Bridge",
     webapp: "https://offer-bridge.onrender.com/",
   },
+
   {
-    id: 1,
+    id: 3,
     title: "Pizza Dispatch – Real-Time Ordering App",
     description:
       "A real-time food ordering application with automated inventory tracking and online payments. Integrated Razorpay payment gateway, optimized frontend performance using lazy loading, and implemented secure order processing with JWT authentication.",
@@ -211,8 +252,9 @@ export const projects = [
     github: "https://github.com/AmitKK10/OIBSIP-PIZZA-APP",
     webapp: "https://oibsip-pizza-app-ykex.onrender.com",
   },
+
   {
-    id: 2,
+    id: 4,
     title: "AI Virtual Assistant",
     description:
       "An AI-powered virtual assistant capable of performing voice-based interactions, answering queries, and assisting users with real-time responses.",
